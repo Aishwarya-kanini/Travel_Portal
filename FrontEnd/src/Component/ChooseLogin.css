@@ -1,0 +1,97 @@
+/* ChooseLogin.css */
+
+.choose-login-container {
+    background-image: url('../../src/images/t1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .top-bar {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  .choose-login {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .login-icons {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .login-card {
+    border: 2px solid transparent;
+    border-radius: 10px;
+    padding: 20px;
+    /* Decreased padding to make more space for the icon and text */
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    min-height: 200px; /* Increase the height of the cards */
+    background-color: rgba(255, 255, 255, 0.5); /* Transparent background color */
+  }
+  
+  .login-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .login-icon {
+    font-size: 300px; /* Increase the size of the icon */
+    margin-bottom: 10px;
+    color: black; /* Set the default color of the icon */
+  }
+  
+  .login-icon.fa-solid {
+    font-size: 310px;
+  }
+  
+  /* Style the text */
+  .login-card p {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  /* Style the colors of the cards */
+  .admin-card:hover .login-icon,
+  .travel-agent-card:hover .login-icon,
+  .traveller-card:hover .login-icon {
+    color: #FF7E00; /* Change icon color to #FF7E00 when hovered */
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .login-icons {
+      flex-direction: column;
+      gap: 10px;
+    }
+  
+    .login-card {
+      min-height: auto;
+      margin-bottom: 20px;
+    }
+  
+    .login-icon {
+      font-size: 150px;
+    }
+  }
+  

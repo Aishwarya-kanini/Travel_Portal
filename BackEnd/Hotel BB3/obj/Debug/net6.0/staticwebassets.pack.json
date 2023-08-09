@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\1fc106c7-6284-495a-949a-f673468099cb.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\1fc106c7-6284-495a-949a-f673468099cb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\2f60db42-e341-4af6-b0f8-c4370cf30eae.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\2f60db42-e341-4af6-b0f8-c4370cf30eae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\2f8b9391-a597-4421-9c8a-01d78c5ba1c6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\2f8b9391-a597-4421-9c8a-01d78c5ba1c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\411a84ef-9f89-4c6b-bdd7-9455e0a71e75.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\411a84ef-9f89-4c6b-bdd7-9455e0a71e75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\7bc4c657-ac4d-4e45-b868-bcf28ffb2134.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\7bc4c657-ac4d-4e45-b868-bcf28ffb2134.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\89686125-97ab-44c5-9715-fc0f65ccc906.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\89686125-97ab-44c5-9715-fc0f65ccc906.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\94ea54f6-9a3b-4c07-afab-0ed1daf5a12c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\94ea54f6-9a3b-4c07-afab-0ed1daf5a12c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\a909e94d-1165-4fe3-bac3-2fb19cc92165.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\a909e94d-1165-4fe3-bac3-2fb19cc92165.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\c28feced-20c0-4b53-a430-cd9e6b7ca4d1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\c28feced-20c0-4b53-a430-cd9e6b7ca4d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\d844d911-cd6c-4cbd-8a32-a8535700cb05.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\d844d911-cd6c-4cbd-8a32-a8535700cb05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\e8edb83c-ae8a-4094-94b6-6bc7d18a43df.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\e8edb83c-ae8a-4094-94b6-6bc7d18a43df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\e9d241b3-5208-4d0b-bce7-4789c0c3913b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\e9d241b3-5208-4d0b-bce7-4789c0c3913b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\eac92bf1-c70a-47af-82bd-2deb21e2083c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\eac92bf1-c70a-47af-82bd-2deb21e2083c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\f0fbaeb7-4ed3-4460-9ad9-b76e8a637889.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\f0fbaeb7-4ed3-4460-9ad9-b76e8a637889.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aishwarya Yuvraj\\Downloads\\Big-Bang3-Assessment\\Hotel BB3\\wwwroot\\uploads\\hotels\\fa129199-35c6-4559-b17b-0de8a7fc93ef.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hotels\\fa129199-35c6-4559-b17b-0de8a7fc93ef.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Hotel BB3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Hotel BB3.props",
+      "PackagePath": "build\\Hotel BB3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Hotel BB3.props",
+      "PackagePath": "buildMultiTargeting\\Hotel BB3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Hotel BB3.props",
+      "PackagePath": "buildTransitive\\Hotel BB3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
